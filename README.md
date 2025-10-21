@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="SVG Fixer logo" width="160">
+</p>
+
 # SVG Fixer
 
 A minimalist web app that cleans and optimizes SVG files — removes metadata, unwanted fills, and strokes while keeping visual fidelity.
